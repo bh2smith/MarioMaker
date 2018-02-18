@@ -29,7 +29,15 @@ Just passing back through a few previously played courses that looked like they
 could be optimized a bit further. Please find places for improvement and
 try to shave off even more time!
 
-2.
+2. `Recent Favourites & One death <https://youtu.be/yP7KKyOtJcc>`_
+
+-  00:05 `? - ? <https://supermariomakerbookmark.nintendo.net/courses/A24E-0000-031D-EBDE>`_
+-  00:43 `Bob-omb Battle Barge <https://supermariomakerbookmark.nintendo.net/courses/FDE5-0000-005A-3E6A>`_ \*
+-  02:53 `Bowsers Castle! - Hard <https://supermariomakerbookmark.nintendo.net/courses/OC77-0000-00FD-F5F4>`_ \*
+-  04:12 `Weird opponent! <https://supermariomakerbookmark.nintendo.net/courses/F233-0000-00F7-B794>`_ \*
+-  05:30 `Go up for a challenge <https://supermariomakerbookmark.nintendo.net/courses/D432-0000-0043-37E0>`_ \*
+-  06:51 `obstical course (hard) <https://supermariomakerbookmark.nintendo.net/courses/E7C1-0000-0094-B884>`_ \*
+-  08:29 `Moving Parts Puzzle 2.0 <https://supermariomakerbookmark.nintendo.net/courses/1C79-0000-036B-F403>`_
 
 
 Expert Runs
