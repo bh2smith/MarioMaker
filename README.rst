@@ -67,7 +67,7 @@ E003:`lP2FVH5YSk4 <https://youtu.be/lP2FVH5YSk4>`_
 E004:`cRePr_BDb3E <https://youtu.be/cRePr_BDb3E>`_
 --------------------------------------------------
 
-1.  0:24 the super ship by bash [308C-0000-02F8-5BAC]
+1.  0:24 `the super ship by bash <https://supermariomakerbookmark.nintendo.net/courses/308C-0000-02F8-5BAC>`_
 2.  2:23 ? by ?
 3.  4:36 ? by ?
 4.  5:27 Super Mario Make it EASIER!!! by Kronoman
