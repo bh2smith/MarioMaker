@@ -1,4 +1,3 @@
-# MarioMaker-VideoLibrary
 
 A list with links to a collection of Mario Maker Runs.
 
@@ -16,13 +15,21 @@ The times displayed represent links to specific points in the video where those 
 
 All course titles prefixed with asterisk represent world records or first clears achieved during recording.
 
+To View, click the links at the beginning of each section.
+
 .. contents::
 
 
 Special Runs
 ============
 
+1. `8 Records in 8 Minutes <https://youtu.be/Nhc91KgRggc>`_
 
+Just passing back through a few previously played courses that looked like they
+could be optimized a bit further. Please find places for improvement and
+try to shave off even more time!
+
+2.
 
 
 Expert Runs
@@ -299,6 +306,47 @@ E015:`OWBMib_ZMvA <https://youtu.be/OWBMib_ZMvA>`_
 14. \* 19:50 Be carefull - ?
 15. \* 20:58 Exterm LARGE!!! - kiki
 16. 23:15 ? - ?
+
+E016:`FVFose83CXY <https://youtu.be/FVFose83CXY>`_
+--------------------------------------------------
+
+1.  0:17 Sacrifice - Emily
+2.  1:12 ? - ?
+3.  \* 2:40 fire pirahna plant king - J
+4.  3:38 Got You - nelson
+5.  4:36 Go Ahead and try... - mateus
+6.  5:36 ? - ?
+7.  \* 6:25 long night of solace - z
+8.  8:32 bowser jns facke shop - Maurice
+9.  9:30 ? - ?
+10. 10:32 ? - ?
+11. 11:58 ? - ?
+12. \* 12:39 Flyers Doom!! - djdylan
+13. 13:44 ? - ?
+14. 14:56 [LBP3] Tinpot Towers Remake - Chunky104
+15. 16:10 ? - ?
+16. 16:48 Fireballs - SkullMan24
+
+E01:` <https://youtu.be/>`_
+--------------------------------------------------
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+
 
 
 Super Expert Runs
