@@ -3,7 +3,7 @@ A list with links to a collection of Mario Maker Runs.
 
 
 Super Mario Maker - Video Guide
-```````````````````````````````
++++++++++++++++++++++++++++++++
 
 The following list contains the text from all posted videos on this
 
@@ -33,11 +33,31 @@ try to shave off even more time!
 
 -  00:05 `? - ? <https://supermariomakerbookmark.nintendo.net/courses/A24E-0000-031D-EBDE>`_
 -  00:43 `Bob-omb Battle Barge <https://supermariomakerbookmark.nintendo.net/courses/FDE5-0000-005A-3E6A>`_ \*
--  02:53 `Bowsers Castle! - Hard <https://supermariomakerbookmark.nintendo.net/courses/OC77-0000-00FD-F5F4>`_ \*
+-  02:53 `Bowsers Castle! - Hard <https://supermariomakerbookmark.nintendo.net/courses/0C77-0000-00FD-F5F4>`_ \*
 -  04:12 `Weird opponent! <https://supermariomakerbookmark.nintendo.net/courses/F233-0000-00F7-B794>`_ \*
 -  05:30 `Go up for a challenge <https://supermariomakerbookmark.nintendo.net/courses/D432-0000-0043-37E0>`_ \*
 -  06:51 `obstical course (hard) <https://supermariomakerbookmark.nintendo.net/courses/E7C1-0000-0094-B884>`_ \*
 -  08:29 `Moving Parts Puzzle 2.0 <https://supermariomakerbookmark.nintendo.net/courses/1C79-0000-036B-F403>`_
+
+3. `First Clear O'Clock <https://youtu.be/>`_
+
+A short episode of courses appearing at the top of the New Arrivals section.
+
+- 00:01 `Road To sHELL[For DannyH09] Run - **Epic**<https://supermariomakerbookmark.nintendo.net/courses/3894-0000-038D-B748>`_
+- 00:40 `SpeedRun 20s - JuanPro <https://supermariomakerbookmark.nintendo.net/courses/ECBD-0000-038D-B38D>`_
+- 01:27 `A unusual boss - kroms33 <https://supermariomakerbookmark.nintendo.net/courses/3D2A-0000-038D-B548>`_
+- 02:08 `dreamy way trail - Samuel <https://supermariomakerbookmark.nintendo.net/courses/4F32-0000-038D-B7A7>`_
+- 02:51 `Day in the life of Mario - nj <https://supermariomakerbookmark.nintendo.net/courses/40FA-0000-038D-B6F3>`_
+- 03:40 `Pretty Easy Level - Keil <https://supermariomakerbookmark.nintendo.net/courses/2455-0000-038D-B73F>`_
+- 04:04 `the floor is lava - Caleb <https://supermariomakerbookmark.nintendo.net/courses/CEFC-0000-038D-B60F>`_
+- 04:36 `An Exercise of Tedium - Dooplis <https://supermariomakerbookmark.nintendo.net/courses/B5B4-0000-038D-B450>`_
+- 05:21 `the funny stge - junior <https://supermariomakerbookmark.nintendo.net/courses/893D-0000-038D-B763>`_
+- 05:57 `Sunrise Of Terror - Warrior <https://supermariomakerbookmark.nintendo.net/courses/3A7F-0000-038D-B503>`_
+- 06:42 `double trouble ends - Kevin <https://supermariomakerbookmark.nintendo.net/courses/60FB-0000-038D-B747>`_
+- 07:32 `I'm too lasy to think of a name - Donovan <https://supermariomakerbookmark.nintendo.net/courses/30A9-0000-038D-B7E2>`_
+- 08:32 `uss - fjrp 1986 <https://supermariomakerbookmark.nintendo.net/courses/A9B1-0000-038D-B6EB>`_
+- 09:52 `Colin's World 1-3 - Colin <https://supermariomakerbookmark.nintendo.net/courses/9148-0000-038D-B768>`_
+- 11:18 `make may only cool ! - Thomas <https://supermariomakerbookmark.nintendo.net/courses/A603-0000-038D-B76A>`_
 
 
 Expert Runs
@@ -404,11 +424,11 @@ S004:`eLi-ZQmWSTY <https://youtu.be/eLi-ZQmWSTY>`_
 S005:`View <https://youtu.be/>`_
 --------------------------------------------------
 
-1.
-2.
-3.
-4.
-5.
-6.
+1.    0:21 `B4D8-0000-00CF-DE6D <https://supermariomakerbookmark.nintendo.net/courses/B4D8-0000-00CF-DE6D>`_
+2.    2:06 `you're not my dad - DubbleDong <https://supermariomakerbookmark.nintendo.net/courses/BC6A-0000-0072-35B2>`_
+3. \* 3:19 `A043-0000-00E3-078C <https://supermariomakerbookmark.nintendo.net/courses/A043-0000-00E3-078C>`_
+4.    4:10 `[2YMM] Spiny Side Down - Buflen <https://supermariomakerbookmark.nintendo.net/courses/DE4D-0000-035D-3AE1>`_
+5.    6:50 `4B16-0000-01CC-7E10 <https://supermariomakerbookmark.nintendo.net/courses/4B16-0000-01CC-7E10>`_
+6. \* 8:03 `BCF4-0000-0153-74CF <https://supermariomakerbookmark.nintendo.net/courses/BCF4-0000-0153-74CF>`_
 
 
