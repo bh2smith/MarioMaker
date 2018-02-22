@@ -421,7 +421,7 @@ S004:`eLi-ZQmWSTY <https://youtu.be/eLi-ZQmWSTY>`_
 5. \* 9:02 ? - ?
 6. 9:42 ? - ?
 
-S005:`View <https://youtu.be/>`_
+S005:`2rk5feD4CKI <https://youtu.be/2rk5feD4CKI>`_
 --------------------------------------------------
 
 1.    0:21 `B4D8-0000-00CF-DE6D <https://supermariomakerbookmark.nintendo.net/courses/B4D8-0000-00CF-DE6D>`_
@@ -431,4 +431,14 @@ S005:`View <https://youtu.be/>`_
 5.    6:50 `4B16-0000-01CC-7E10 <https://supermariomakerbookmark.nintendo.net/courses/4B16-0000-01CC-7E10>`_
 6. \* 8:03 `BCF4-0000-0153-74CF <https://supermariomakerbookmark.nintendo.net/courses/BCF4-0000-0153-74CF>`_
 
+
+S006:`U1W-gkphu5E <https://youtu.be/U1W-gkphu5E>`_
+--------------------------------------------------
+
+1. \* 0:21 `455F-0000-0024-5DD8 <https://supermariomakerbookmark.nintendo.net/courses/455F-0000-0024-5DD8>`_
+2.    2:02 `B601-0000-038B-5C87 <https://supermariomakerbookmark.nintendo.net/courses/B601-0000-038B-5C87>`_
+3. \* 3:07 `6729-0000-0048-3BC1 <https://supermariomakerbookmark.nintendo.net/courses/6729-0000-0048-3BC1>`_
+4.    3:57 `C37C-0000-0117-C02A <https://supermariomakerbookmark.nintendo.net/courses/C37C-0000-0117-C02A>`_
+5.    5:23 `AB3A-0000-00C3-1C79 <https://supermariomakerbookmark.nintendo.net/courses/AB3A-0000-00C3-1C79>`_
+6.    7:24 `<3C2C-0000-0013-0B5D https://supermariomakerbookmark.nintendo.net/courses/3C2C-0000-0013-0B5D>`_
 
