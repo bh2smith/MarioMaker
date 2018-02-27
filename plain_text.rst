@@ -318,6 +318,42 @@ SuperExpert004:
 9:42 ? - ?
 
 
+S005:2rk5feD4CKI
+----------------
+
+0:21 https://supermariomakerbookmark.nintendo.net/courses/B4D8-0000-00CF-DE6D
+2:06 https://supermariomakerbookmark.nintendo.net/courses/BC6A-0000-0072-35B2
+3:19 https://supermariomakerbookmark.nintendo.net/courses/A043-0000-00E3-078C
+4:10 https://supermariomakerbookmark.nintendo.net/courses/DE4D-0000-035D-3AE1
+6:50 https://supermariomakerbookmark.nintendo.net/courses/4B16-0000-01CC-7E10
+8:03 https://supermariomakerbookmark.nintendo.net/courses/BCF4-0000-0153-74CF
+
+
+S006:U1W-gkphu5E
+----------------
+
+0:21 https://supermariomakerbookmark.nintendo.net/courses/455F-0000-0024-5DD8
+2:02 https://supermariomakerbookmark.nintendo.net/courses/B601-0000-038B-5C87
+3:07 https://supermariomakerbookmark.nintendo.net/courses/6729-0000-0048-3BC1
+3:57 https://supermariomakerbookmark.nintendo.net/courses/C37C-0000-0117-C02A
+5:23 https://supermariomakerbookmark.nintendo.net/courses/AB3A-0000-00C3-1C79
+7:24 https://supermariomakerbookmark.nintendo.net/courses/3C2C-0000-0013-0B5D
+
+
+
+
+
+S008:H8X75gwuHZI
+----------------
+
+0:18 https://supermariomakerbookmark.nintendo.net/courses/D851-0000-00CD-381A
+1:28 https://supermariomakerbookmark.nintendo.net/courses/1F4D-0000-0226-9F6C
+2:53 https://supermariomakerbookmark.nintendo.net/courses/F5DB-0000-0121-BADD
+3:28 https://supermariomakerbookmark.nintendo.net/courses/B906-0000-0255-4FE9
+5:22 https://supermariomakerbookmark.nintendo.net/courses/2CB9-0000-02B5-3471
+9:00 https://supermariomakerbookmark.nintendo.net/courses/9000-0000-0164-5A95
+
+
 Courses prefixed with asterisk represent world records or first clears achieved during recording.
 
 

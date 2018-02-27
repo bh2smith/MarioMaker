@@ -440,5 +440,38 @@ S006:`U1W-gkphu5E <https://youtu.be/U1W-gkphu5E>`_
 3. \* 3:07 `6729-0000-0048-3BC1 <https://supermariomakerbookmark.nintendo.net/courses/6729-0000-0048-3BC1>`_
 4.    3:57 `C37C-0000-0117-C02A <https://supermariomakerbookmark.nintendo.net/courses/C37C-0000-0117-C02A>`_
 5.    5:23 `AB3A-0000-00C3-1C79 <https://supermariomakerbookmark.nintendo.net/courses/AB3A-0000-00C3-1C79>`_
-6.    7:24 `<3C2C-0000-0013-0B5D https://supermariomakerbookmark.nintendo.net/courses/3C2C-0000-0013-0B5D>`_
+6.    7:24 `3C2C-0000-0013-0B5D <https://supermariomakerbookmark.nintendo.net/courses/3C2C-0000-0013-0B5D>`_
 
+
+S007:`47UKuc20msw <https://youtu.be/47UKuc20msw>`_
+--------------------------------------------------
+
+1.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+2.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+3.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+4.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+5.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+6.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+
+
+S008:`H8X75gwuHZI <https://youtu.be/H8X75gwuHZI>`_
+--------------------------------------------------
+
+1.    0:18 `D851-0000-00CD-381A <https://supermariomakerbookmark.nintendo.net/courses/D851-0000-00CD-381A>`_
+2. \* 1:28 `1F4D-0000-0226-9F6C <https://supermariomakerbookmark.nintendo.net/courses/1F4D-0000-0226-9F6C>`_
+3.    2:53 `F5DB-0000-0121-BADD <https://supermariomakerbookmark.nintendo.net/courses/F5DB-0000-0121-BADD>`_
+4. \* 3:28 `B906-0000-0255-4FE9 <https://supermariomakerbookmark.nintendo.net/courses/B906-0000-0255-4FE9>`_
+5.    5:22 `2CB9-0000-02B5-3471 <https://supermariomakerbookmark.nintendo.net/courses/2CB9-0000-02B5-3471>`_
+6.    9:00 `9000-0000-0164-5A95 <https://supermariomakerbookmark.nintendo.net/courses/9000-0000-0164-5A95>`_
+
+
+
+
+
+
+1.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+2.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+3.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+4.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+5.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
+6.  ` <https://supermariomakerbookmark.nintendo.net/courses/>`_
